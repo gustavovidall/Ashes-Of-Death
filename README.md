@@ -57,6 +57,3 @@ Não precisa instalar nada. Abra o link acima, ou baixe o `index.html` e abra no
 Gustavo Vidal Alves (scripting/code)
 
 (Made with Claude)
-Desenvolvido por **Gustavo Vidal** (RA 8261107309)
-
-Projeto acadêmico.
